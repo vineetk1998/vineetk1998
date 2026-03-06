@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://vineetk1998.github.io"><img src="https://img.shields.io/badge/Resume-vineetk1998.github.io-00B37A?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
 </p>
 
 ---
@@ -51,6 +52,7 @@ Results-driven software architect with years of experience designing and impleme
 
 ---
 
+## 🤝 Let's Connect
 <p align="center">
   💬 Feel free to reach out — I'm always open to interesting conversations and opportunities!<br/><br/>
     <a href="https://linkedin.com/in/vineetkch"><img src="https://img.shields.io/badge/LinkedIn-vineetkch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -63,3 +65,11 @@ Results-driven software architect with years of experience designing and impleme
   <img src="https://komarev.com/ghpvc/?username=vineetk1998&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/Last%20Updated-Mar%202026-orange?style=for-the-badge&logo=github" />
 </p>
+
+---
+
+## ☕ Fuel My Code 
+<p align="center">
+<a href="https://buymeacoffee.com/vineetk1998"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"></a>
+</p>
+
