@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Results-driven software architect with **5+ years** of experience designing and implementing scalable, high-performing distributed systems. I've led cross-functional engineering initiatives that **reduced booking failures by 95%** and **enhanced platform reliability by 35%**. Passionate about mentoring teams, establishing best practices, and building systems that scale.
+Results-driven software architect with years of experience designing and implementing scalable, high-performing distributed systems. Skilled in architecting service-based systems, implementing end-to-end observability, optimizing performance, and mentoring engineering teams while establishing best practices across organizations.
 
 ---
 
@@ -51,32 +51,15 @@ Results-driven software architect with **5+ years** of experience designing and 
 
 ---
 
-
-## 🌟 Featured Projects
-
-| Project | Description | Link |
-|---|---|---|
-| **CueObserve** | Open-source time-series anomaly detection for SQL data warehouses | [GitHub](https://github.com/cuebook/CueObserve) |
-| **Food Safety Blockchain** | Blockchain-based food supply chain tracker with Flask API integration | [GitHub](https://github.com/vineetk1998) |
-
----
-
-## 🏆 Awards & Achievements
-
-- 📄 **Published paper** at ICACC *(2019)*
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vineetk1998&show_icons=true&theme=tokyonight&hide_border=true" alt="Vineet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetk1998&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  💬 Feel free to reach out — I'm always open to interesting conversations and opportunities!<br/><br/>
+    <a href="https://linkedin.com/in/vineetkch"><img src="https://img.shields.io/badge/LinkedIn-vineetkch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
+--- 
 
+## 📊 Profile Stats
 <p align="center">
-  💬 Feel free to reach out — I'm always open to interesting conversations and opportunities!<br/>
-  🌐 <a href="https://vineetk1998.github.io">vineetk1998.github.io</a>
+  <img src="https://komarev.com/ghpvc/?username=vineetk1998&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Last%20Updated-Mar%202026-orange?style=for-the-badge&logo=github" />
 </p>
