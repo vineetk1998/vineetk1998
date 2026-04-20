@@ -52,6 +52,15 @@ Results-driven software architect with years of experience designing and impleme
 
 ---
 
+## 🏢 Previous Work
+
+Some of the products I worked on during my time at Cuebook. Linking them here since they're public work but aren't reflected on this profile, as they were contributed under a different account.
+
+- [cuelake](https://github.com/cuebook/cuelake) — Fast, easy and cost-efficient data pipelines on data lakes.
+- [cueobserve](https://github.com/cuebook/cueobserve) — Anomaly detection on your data warehouse.
+
+---
+
 ## 🤝 Let's Connect
 <p align="center">
   💬 Feel free to reach out — I'm always open to interesting conversations and opportunities!<br/><br/>
